@@ -19,9 +19,9 @@ sections:
         text: Download CV
         url: https://drive.google.com/file/d/1TvfdKNDk520Pk6ZvrgJoTaHvBJWSPJyL/view?usp=drive_link
     design:
-      css_class: light
+      css_class: dark
       background:
-        color: white
+        color: black
         image:
           # Add your image background to `assets/media/`.
           filename: # stacked-peaks.svg
@@ -36,7 +36,7 @@ sections:
       title: 'Recent News'
       subtitle: ''
       text: |-
-        Aug. 14, 2024: I will attend the 2024 FMA Annual Meeting with my job market paper accpeted by 2024 FMA Doctoral Student Consortium. Looking forward to seeing you all in Texas! 
+        Aug. 14, 2024: I will attend the 2024 FMA Annual Meeting with my job market paper accpeted by the Doctoral Student Consortium. Looking forward to seeing you all in Texas! 
     design:
       columns: '1'
 
