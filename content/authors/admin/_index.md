@@ -33,14 +33,16 @@ profiles:
   - icon: at-symbol
     url: 'mailto:108352506@nccu.edu.tw'
     label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/olifang
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/dongjiefang/
+    url: https://www.linkedin.com/in/dongjiefang/ 
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=6DrFatoAAAAJ&hl=zh-TW
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-8234-0820
+  - icon: brands/github
+    url: https://github.com/olifang
+  - icon: custom/ssrn
+    url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4652607
+  #- icon: academicons/orcid
+    #url: https://orcid.org/0000-0002-8234-0820
 
 interests:
   - Asset Pricing
