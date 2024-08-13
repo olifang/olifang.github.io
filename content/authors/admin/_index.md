@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Dept. of Money & Banking
+role: Ph.D. Candidate, Department of Money and Banking
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -33,23 +33,19 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/olifang
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/dongjiefang/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=6DrFatoAAAAJ&hl=zh-TW
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
   - Asset Pricing
-  - Financial Information Disclosure
   - Sustainable Finance
+  - Financial Information Disclosure
   - Financial Engineering
   - FinTech
 
