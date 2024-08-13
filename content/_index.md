@@ -19,9 +19,9 @@ sections:
         text: Download CV
         url: https://drive.google.com/file/d/1TvfdKNDk520Pk6ZvrgJoTaHvBJWSPJyL/view?usp=drive_link
     design:
-      css_class: system
+      css_class: dark
       background:
-        color: emerald
+        color: black
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
