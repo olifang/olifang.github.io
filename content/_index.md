@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: https://drive.google.com/file/d/1TvfdKNDk520Pk6ZvrgJoTaHvBJWSPJyL/view?usp=drive_link
     design:
       css_class: dark
       background:
@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
           filters:
-            brightness: 1.0
+            brightness: 5.0
           size: cover
           position: center
           parallax: false

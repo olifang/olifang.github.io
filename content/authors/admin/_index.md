@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Candidate, Department of Money and Banking
+role: Ph.D. Candidate in Money and Banking
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -40,7 +40,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=6DrFatoAAAAJ&hl=zh-TW
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-8234-0820
 
 interests:
   - Asset Pricing
