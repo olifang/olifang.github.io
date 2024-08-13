@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2024-08-14
 type: landing
 
 design:
@@ -19,29 +19,27 @@ sections:
         text: Download CV
         url: https://drive.google.com/file/d/1TvfdKNDk520Pk6ZvrgJoTaHvBJWSPJyL/view?usp=drive_link
     design:
-      css_class: dark
+      css_class: light
       background:
-        color: black
+        color: white
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: # stacked-peaks.svg
           filters:
             brightness: 1.0
           size: cover
           position: center
           parallax: false
+  
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'Recent News'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Aug. 14, 2024: I will attend the 2024 FMA Annual Meeting with my job market paper accpeted by 2024 FMA Doctoral Student Consortium. Looking forward to seeing you all in Texas! 
     design:
       columns: '1'
+
   - block: collection
     id: papers
     content:
@@ -53,6 +51,7 @@ sections:
     design:
       view: article-grid
       columns: 2
+
   - block: collection
     content:
       title: Recent Publications
@@ -63,20 +62,11 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
+  
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Blog posts
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -102,6 +92,7 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
