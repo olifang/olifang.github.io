@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dong-Jie (Oliver) Fang 方東杰
+title: Dong-Jie (Oliver) Fang
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:108352506@nccu.edu.tw'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/olifang
@@ -122,26 +122,11 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+
 
 languages:
   - name: English
-    percent: 95
+    percent: 90
   - name: Chinese - Mandarin
     percent: 100
   - name: Chinese - Cantonese
@@ -181,4 +166,4 @@ awards:
 
 ## About Me
 
-"Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks."
+"Oliver Fang is ..."
