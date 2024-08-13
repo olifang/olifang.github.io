@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Dong-Jie (Oliver) Fang 方東杰
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Dong-Jie
+last_name: Fang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D. Candidate in Dept. of Money & Banking
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: National Chengchi University
+    url: https://www.nccu.edu.tw/index.php?Lang=en 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,37 +47,39 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Asset Pricing
+  - Financial Information Disclosure
+  - Sustainable Finance
+  - Financial Engineering
+  - FinTech
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. Candidate in Money and Banking
+    institution: National Chengchi University
+    date_start: 2019-09-01
+    date_end: 2025-06-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.Sc. in Financial Engineering
+    institution: National Chengchi University
+    date_start: 2017-09-01
+    date_end: 2019-06-30
     summary: |
-      GPA: 3.8/4.0
+      GPA: 4.21/4.30
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.Econ in Financial Engineering
+    institution: Ningbo University
+    date_start: 2013-09-01
+    date_end: 2017-06-30
     summary: |
-      GPA: 3.4/4.0
+    
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -143,11 +145,11 @@ skills:
 
 languages:
   - name: English
+    percent: 95
+  - name: Chinese - Mandarin
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Chinese - Cantonese
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +185,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+"Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks."
