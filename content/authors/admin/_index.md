@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: hero/envelope #at-symbol
     url: 'mailto:108352506@nccu.edu.tw'
     label: E-mail Me
   - icon: brands/linkedin
