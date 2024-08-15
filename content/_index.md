@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "4rem"
+  spacing: "3rem"
 
 sections:
   - block: resume-biography-3
@@ -36,7 +36,7 @@ sections:
       title: 'Recent News'
       subtitle: ''
       text: |-
-        Aug. 14, 2024: I will attend the 2024 FMA Annual Meeting with my job market paper accpeted by the Doctoral Student Consortium. Looking forward to seeing you all in Texas! 
+        Aug. 14, 2024: I will attend the **2024 FMA Annual Meeting** with my job market paper accpeted by the Doctoral Student Consortium. Looking forward to seeing you all in Texas! 
     design:
       columns: '1'
 

@@ -78,7 +78,6 @@ education:
     date_start: 2013-09-01
     date_end: 2017-06-30
     summary: |
-    
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -167,8 +166,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
-
-Oliver Fang is a PhD candidate at the Department of Money and Banking in National Chengchi University. Mr. Fang's research focuses on asset pricing, financial engineering, and FinTech. His recent works investigate the market impact from financial information disclosure (job market paper) and adopt Natural Language Processing (NLP) and financial engnieering to explore various issues related to sustainable finance. He has published academic papers in _Pacific-Basin Finance journal_ and _NTU Management Review_. He has presented his research on many international academic conferences, such as FMA, EFMA, EasternFA, and SWFA. He has rich exprience in supervising Master theses and teaching Derivatives and Financial Engineering courses (both online and in-person). 
-
-**He is on the 2024-25 job market.**
+## Biography
+Oliver Fang is a PhD candidate in Money and Banking at the National Chengchi University. His research focuses on asset pricing, financial engineering, and FinTech. Recently, he investigates the market impact from financial information disclosure (job market paper) and adopts text mining and financial engnieering to explore various issues related to sustainable finance. He has published academic papers in _Pacific-Basin Finance journal_ and _NTU Management Review_. He presents his research on many international conferences, such as FMA, EFMA, EasternFA, and SWFA. He has rich exprience in supervising Master theses and teaching Derivatives and Financial Engineering courses (both online and in-person). 
+**Oliver Fang is on the 2024-25 job market.**
