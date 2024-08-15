@@ -169,4 +169,6 @@ awards:
 
 ## About Me
 
-"Oliver Fang is ..."
+Oliver Fang is a PhD candidate at the Department of Money and Banking in National Chengchi University. Mr. Fang's research focuses on asset pricing, financial engineering, and FinTech. His recent works investigate the market impact from financial information disclosure (job market paper) and adopt Natural Language Processing (NLP) and financial engnieering to explore various issues related to sustainable finance. He has published academic papers in _Pacific-Basin Finance journal_ and _NTU Management Review_. He has presented his research on many international academic conferences, such as FMA, EFMA, EasternFA, and SWFA. He has rich exprience in supervising Master theses and teaching Derivatives and Financial Engineering courses (both online and in-person). 
+
+**He is on the 2024-25 job market.**
