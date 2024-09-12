@@ -58,7 +58,7 @@ education:
     date_start: 2019-09-01
     date_end: 2025-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Doctoral dissertation: _Two Essays on Financial Information Disclosure_
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -167,6 +167,6 @@ awards:
 ---
 
 
-Oliver Fang is a PhD candidate in Money and Banking at the National Chengchi University. His research focuses on asset pricing, financial engineering, and FinTech. Recently, he investigates the market impact from financial information disclosure (job market paper) and adopts text mining and financial engnieering to explore various issues related to sustainable finance. He has published academic papers in _Pacific-Basin Finance journal_ and _NTU Management Review_. He presents his research on many international conferences, such as FMA, EFMA, EasternFA, and SWFA. He has rich exprience in supervising Master theses and teaching Derivatives and Financial Engineering courses (both online and in-person). 
+Oliver Fang is a PhD candidate in Money and Banking at the National Chengchi University in Taiwan. His research focuses on asset pricing, financial engineering, and FinTech. Recently, he investigates the market impact from financial information disclosure (job market paper) and adopts text mining and financial engnieering to explore various issues related to sustainable finance. He has published academic papers in _Pacific-Basin Finance journal_ and _NTU Management Review_. He presents his research on many international conferences, such as FMA, EFMA, EasternFA, and SWFA. He has rich exprience in supervising Master theses and teaching Derivatives and Financial Engineering courses (both online and in-person). 
 
 **Oliver Fang is on the 2024-25 job market.**
