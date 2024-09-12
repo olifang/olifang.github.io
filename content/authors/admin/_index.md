@@ -70,8 +70,9 @@ education:
     date_start: 2017-09-01
     date_end: 2019-06-30
     summary: |
-      GPA: 4.21/4.30
+      GPA: 4.21/4.30 | 
       Master thesis: _Valuation and Risk Management of Weather Derivatives: The Application of CME Rainfall Index Binary Contracts_
+
       
 
   - area: B.Econ in Financial Engineering
