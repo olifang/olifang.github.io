@@ -23,9 +23,11 @@ highlight_name: true
 role: Ph.D. Candidate in Money and Banking
 
 # Organizations/Affiliations to display in Biography blox
+
 organizations:
   - name: National Chengchi University
-    url: https://www.nccu.edu.tw/index.php?Lang=en 
+    url: https://www.nccu.edu.tw/index.php?Lang=en
+
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -69,6 +71,7 @@ education:
     date_end: 2019-06-30
     summary: |
       GPA: 4.21/4.30
+      
       Master thesis: _Valuation and Risk Management of Weather Derivatives: The Application of CME Rainfall Index Binary Contracts_
       
 
