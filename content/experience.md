@@ -14,8 +14,8 @@ sections:
     content:
       username: admin
     button:
-    text: 'CV'
-    url: https://drive.google.com/file/d/1TvfdKNDk520Pk6ZvrgJoTaHvBJWSPJyL/view?usp=drive_link
+      text: 'CV'
+      url: https://drive.google.com/file/d/1TvfdKNDk520Pk6ZvrgJoTaHvBJWSPJyL/view?usp=drive_link
     design:
       # Hugo date format
       date_format: 'January 2006'

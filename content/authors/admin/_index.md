@@ -60,7 +60,7 @@ education:
     date_start: 2019-09-01
     date_end: 2025-06-30
     summary: |
-      Ph.D. dissertation: _Two Essays on Financial Information Disclosure_
+      GPA 4.14/4.30 | Ph.D. dissertation: _Two Essays on Financial Information Disclosure_
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -70,8 +70,7 @@ education:
     date_start: 2017-09-01
     date_end: 2019-06-30
     summary: |
-      GPA: 4.21/4.30 | 
-      Master thesis: _Valuation and Risk Management of Weather Derivatives: The Application of CME Rainfall Index Binary Contracts_
+      GPA: 4.21/4.30 | Master thesis: _Valuation and Risk Management of Weather Derivatives: The Application of CME Rainfall Index Binary Contracts_
 
       
 
