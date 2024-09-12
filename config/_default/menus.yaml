@@ -10,9 +10,9 @@ main:
   - name: Research
     url: /#papers
     weight: 12
-  - name: News
-    url: /#news
-    weight: 11
+  # - name: News
+  #   url: /#news
+  #   weight: 11
   - name: Experience
     url: experience/
     weight: 20
@@ -22,3 +22,7 @@ main:
   - name: Teaching
     url: teaching/
     weight: 40
+
+  - name: Contact
+    url: /#contact
+    weight: 90
