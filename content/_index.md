@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "2rem"
+  spacing: "1rem"
 
 sections:
   - block: resume-biography-3
@@ -86,7 +86,7 @@ sections:
         
         No. 64, Sec. 2, Zhinan Road, Wenshan District, Taipei, Taiwan, 11605
         
-        Email:'108352506@nccu.edu.tw'
+        Email: _108352506@nccu.edu.tw_
         
         Tel: +886 909712701
     design:
