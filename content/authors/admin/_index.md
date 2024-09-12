@@ -54,35 +54,30 @@ interests:
 
 education:
   - area: Ph.D. Candidate in Money and Banking
-    institution: National Chengchi University
+    institution: National Chengchi University, Taiwan
     date_start: 2019-09-01
     date_end: 2025-06-30
     summary: |
-      Doctoral dissertation: _Two Essays on Financial Information Disclosure_
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Ph.D. dissertation: _Two Essays on Financial Information Disclosure_
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+    
   - area: M.Sc. in Financial Engineering
-    institution: National Chengchi University
+    institution: National Chengchi University, Taiwan
     date_start: 2017-09-01
     date_end: 2019-06-30
     summary: |
       GPA: 4.21/4.30
+      Master thesis: _Valuation and Risk Management of Weather Derivatives: The Application of CME Rainfall Index Binary Contracts_
+      
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: B.Econ in Financial Engineering
-    institution: Ningbo University
+    institution: Ningbo University, China
     date_start: 2013-09-01
     date_end: 2017-06-30
     summary: |
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
