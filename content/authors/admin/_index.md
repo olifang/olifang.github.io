@@ -89,8 +89,8 @@ work:
     date_end: 2024-05-31
     summary: ''
 
-Skills
-Add your own SVG icons to `assets/media/icons/`
+#Skills
+#Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
