@@ -71,7 +71,7 @@ education:
     date_end: 2019-06-30
     summary: |
       GPA: 4.21/4.30
-      |
+    
       Master thesis: _Valuation and Risk Management of Weather Derivatives: The Application of CME Rainfall Index Binary Contracts_
       
 
@@ -82,7 +82,7 @@ education:
     summary: |
 
 work:
-  - position: Visiting Ph.D. Student, Dept. of Finance
+  - position: Visiting Ph.D. Student, Department of Finance
     company_name: University of North Carolina at Charlotte (UNC Charlotte)
     company_url: https://belkcollege.charlotte.edu/departments/finance/
     company_logo: ''
@@ -92,29 +92,28 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 80
+#         icon: code-bracket
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: circle-stack
 
 languages:
   - name: English
     percent: 90
-  - name: Chinese - Mandarin
+  - name: Mandarin Chinese
     percent: 100
-  - name: Chinese - Cantonese
+  - name: Cantonese Chinese
     percent: 80
 
 # Awards.
