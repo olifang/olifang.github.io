@@ -105,7 +105,7 @@ skills:
       - name: SQL
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: circle-stack 
 
 languages:
   - name: English
