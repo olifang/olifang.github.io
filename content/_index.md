@@ -84,7 +84,7 @@ sections:
       text: |-
         No. 64, Sec. 2, Zhinan Road, Wenshan District, Taipei, Taiwan, 11605
         
-        Email: ['108352506@nccu.edu.tw'](mailto:108352506@nccu.edu.tw)
+        Email: [108352506@nccu.edu.tw](mailto:108352506@nccu.edu.tw)
         
         Tel: +886 909712701
     design:
