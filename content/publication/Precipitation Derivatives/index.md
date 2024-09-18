@@ -1,16 +1,19 @@
 ---
-title: "An example journal article"
+title: "Valuation and Risk Management of Weather Derivatives: 
+  The Application of CME Rainfall Index Binary Contracts"
 authors:
+- Shih-Kuei Lin
+- Ming-Che Chuang
 - admin
-- Robert Ford
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- "National Chengchi University"
+- "Feng Chia University"
+- "Corresponding author. <br> National Chengchi University"
+date: "2021-04-01T00:00:00Z"
+doi: "https://doi.org/10.6226/NTUMR.202104_31(1).0004"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-09-18T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,23 +21,29 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*NTU Management Review, 31*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this paper, we explore and analyze the valuation and risk management of rainfall index binary contracts, a type of precipitation derivative issued by the Chicago Mercantile Exchange (CME). We describe the underlying rainfall index with the occurrence model, which is built on a first-order, two-state Markov chain, and with the magnitude model based on mixed exponential distribution. To capture the seasonality characteristics, we describe the parameters of these two models with the truncated Fourier series. Since the weather derivatives market is incomplete due to the essence of its product, we value the rainfall index binary options with the Esscher transform and calibrate the market price of risk (MPR) with real market data. After analyzing the temporal behavior of the MPR, we find that the investors could have more accurate estimations of the rainfall index when approaching the end of the contract period or when entering the accumulation period. We also find that rather than speculators, the market participants are mainly hedgers, which may explain the shrinking of the precipitation derivatives market.  
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
-- Source Themes
-featured: false
+- Precipitation derivatives
+- Markov chain
+- Truncated Fourier series
+- Esscher transform
+- Market price of risk
+  
+featured: true
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url: https://review.management.ntu.edu.tw/vol_file.aspx?lang=en&fid=d108-020
+url_pdf: https://review.management.ntu.edu.tw/paper/9277-P.pdf
+url_code: 
 url_dataset: ''
 url_poster: ''
 url_project: ''
