@@ -55,7 +55,7 @@ interests:
   - FinTech
 
 education:
-  - area: Ph.D. Candidate in Money and Banking
+  - area: Ph.D. Candidate in Money and Banking, 2025 (Expected)
     institution: National Chengchi University, Taiwan
     date_start: 2019-09-01
     date_end: 2025-06-30
@@ -65,7 +65,7 @@ education:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
     
-  - area: M.Sc. in Financial Engineering
+  - area: M.Sc. in Financial Engineering, 2017
     institution: National Chengchi University, Taiwan
     date_start: 2017-09-01
     date_end: 2019-06-30
@@ -74,7 +74,7 @@ education:
 
       
 
-  - area: B.Econ in Financial Engineering
+  - area: B.Econ in Financial Engineering, 2013
     institution: Ningbo University, China
     date_start: 2013-09-01
     date_end: 2017-06-30
@@ -93,7 +93,7 @@ work:
     company_name: National Taiwan University & E.SUN Bank
     company_url: ''
     company_logo: ''
-    date_start: 2019-09-01
+    date_start: 2019-08-01
     date_end: 2021-07-31
     summary: ''
 
@@ -112,7 +112,6 @@ work:
     date_start: 2018-01-01
     date_end: 2018-12-31
     summary: ''
-
 
 
 #Skills
