@@ -11,8 +11,8 @@ author_notes:
 - "National Chengchi University"
 - "Zhejiang Wanli University"
 - "Corresponding author. <br> National Chengchi University"
-date: "2021-04-01T00:00:00Z"
-doi: "https://doi.org/10.6226/NTUMR.202104_31(1).0004"
+date: "2024-09-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.pacfin.2024.102392"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-09-01T00:00:00Z"
@@ -23,17 +23,18 @@ publishDate: "2024-09-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*NTU Management Review, 31*(1)"
+publication: "*Pacific-Basin Finance Journal, 86*"
 publication_short: ""
 
-abstract: In this paper, we explore and analyze the valuation and risk management of rainfall index binary contracts, a type of precipitation derivative issued by the Chicago Mercantile Exchange (CME). We describe the underlying rainfall index with the occurrence model, which is built on a first-order, two-state Markov chain, and with the magnitude model based on mixed exponential distribution. To capture the seasonality characteristics, we describe the parameters of these two models with the truncated Fourier series. Since the weather derivatives market is incomplete due to the essence of its product, we value the rainfall index binary options with the Esscher transform and calibrate the market price of risk (MPR) with real market data. After analyzing the temporal behavior of the MPR, we find that the investors could have more accurate estimations of the rainfall index when approaching the end of the contract period or when entering the accumulation period. We also find that rather than speculators, the market participants are mainly hedgers, which may explain the shrinking of the precipitation derivatives market.  
+abstract: In this paper, the arbitrage-free Nelson–Siegel (NS) model with jump diffusion (AFNSJ) is proposed to describe the Secured Overnight Financing Rate (SOFR). The parameters of this model are estimated through particle filtering conducted with a weighted maximum likelihood estimation approach. The empirical results of this study indicate that the AFNSJ outperforms the arbitrage-free NS model in fitting market data. SOFR jumps are highly related to Federal Open Market Committee meetings. Moreover, even under different interest rate changes, these jumps are mainly driven by a short-term factor. The risk adjustment term can suitably capture changes in the US Federal Reserve rate caused by the jump risk component.  
 
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-- Sustainable Finance
+- SOFR
+- Interest Rate
 - Derivatives
 - Financial Engineering
 
@@ -41,9 +42,9 @@ tags:
 featured: true
 
 # links:
-# - name: ""
-url: ''
-url_pdf: https://review.management.ntu.edu.tw/paper/9277-P.pdf
+- name: Custom Link
+  url: http://example.org
+url_pdf: ‘’
 url_code: ''
 url_dataset: ''
 url_poster: ''
