@@ -56,7 +56,7 @@ interests:
 
 education:
   - area: Ph.D. Candidate in Money and Banking, 2025 (Expected)
-    institution: National Chengchi University, Taiwan
+    institution: National Chengchi University
     date_start: 2019-09-01
     date_end: 2025-06-30
     summary: |
@@ -66,7 +66,7 @@ education:
     #   url: 'https://example.com'
     
   - area: M.Sc. in Financial Engineering, 2017
-    institution: National Chengchi University, Taiwan
+    institution: National Chengchi University
     date_start: 2017-09-01
     date_end: 2019-06-30
     summary: |
@@ -75,7 +75,7 @@ education:
       
 
   - area: B.Econ in Financial Engineering, 2013
-    institution: Ningbo University, China
+    institution: Ningbo University
     date_start: 2013-09-01
     date_end: 2017-06-30
     summary: |
