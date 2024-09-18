@@ -41,7 +41,7 @@ tags:
   
 featured: true
 
-# links:
+links:
 - name: Custom Link
   url: http://example.org
 url_pdf: ‘’
