@@ -31,6 +31,7 @@ abstract: In this paper, we explore and analyze the valuation and risk managemen
 summary: 
 
 tags:
+- Weather Derivatives
 - Sustainable Finance
 - Derivatives
 - Financial Engineering
