@@ -42,11 +42,8 @@ tags:
 featured: true
 
 links:
-- name: Link
-  url: https://doi.org/10.1016/j.pacfin.2024.102392
 - name: SSRN
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4768825 
-url_pdf: ‘’
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -87,5 +84,5 @@ slides: example
 # Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
 
 ---
-This paper was adapted from Dong-Jie Fang's Master thesis, which won the **_NTU Management Review_ Best Master Thesis Award** in 2019.
+
 
