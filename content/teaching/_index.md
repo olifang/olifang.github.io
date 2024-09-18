@@ -27,15 +27,11 @@ sections:
       title: 'Teaching'
       subtitle: 'National Chengchi University'
       text: |-
+        - Master theses advisor, Department of Money and Banking, 
         - 2019 - 2023: Master’s thesis supervision (12 students)	Adviser
         2019 - 2023	Interest Rate Models in Financial Engineering (Graduate, Ph.D.) 
         Online lecture videos: YouTube
         Instructor
         2018 - 2020	Financial Engineering and Innovations (Graduate, Ph.D.)	Teaching Assistant
-        
       
-    design:
-      spacing:
-      # Customize the section spacing. Order is top, right, bottom, left.
-      padding: ['20px', '0', '20px', '0']
 ---
