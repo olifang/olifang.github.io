@@ -13,7 +13,7 @@ date: "2021-04-01T00:00:00Z"
 doi: "https://doi.org/10.6226/NTUMR.202104_31(1).0004"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-09-18T00:00:00Z"
+publishDate: "2024-09-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
