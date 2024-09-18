@@ -54,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Lin et al. (2021)**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Source from: [**Lin et al. (2021)**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
