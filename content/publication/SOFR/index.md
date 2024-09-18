@@ -24,7 +24,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Pacific-Basin Finance Journal, 86*"
-publication_short: ""
+publication_short: "PBFJ"
 
 abstract: In this paper, the arbitrage-free Nelson–Siegel (NS) model with jump diffusion (AFNSJ) is proposed to describe the Secured Overnight Financing Rate (SOFR). The parameters of this model are estimated through particle filtering conducted with a weighted maximum likelihood estimation approach. The empirical results of this study indicate that the AFNSJ outperforms the arbitrage-free NS model in fitting market data. SOFR jumps are highly related to Federal Open Market Committee meetings. Moreover, even under different interest rate changes, these jumps are mainly driven by a short-term factor. The risk adjustment term can suitably capture changes in the US Federal Reserve rate caused by the jump risk component.  
 
@@ -42,8 +42,10 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+- name: Link
+  url: https://doi.org/10.1016/j.pacfin.2024.102392
+- name: SSRN
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4768825 
 url_pdf: ‘’
 url_code: ''
 url_dataset: ''
