@@ -82,6 +82,7 @@ sections:
       title: 'Contact'
       subtitle: ''
       text: |-
+        Department of Money and Banking, National Chengchi University <br>
         No. 64, Sec. 2, Zhinan Road, Wenshan District, Taipei, Taiwan, 11605<br>
         E-mail: <a href="mailto:108352506@nccu.edu.tw"> _108352506@nccu.edu.tw_ </a> <br>
         Tel: +886 909712701
