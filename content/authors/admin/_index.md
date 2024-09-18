@@ -152,4 +152,4 @@ Oliver Fang is a Ph.D. candidate in [Money and Banking](https://banking.nccu.edu
 
 He has published academic papers in _Pacific-Basin Finance journal_ and _NTU Management Review_. He presents his research on many international conferences, including FMA, EFMA, EasternFA, and SWFA. He has rich exprience in supervising Master theses and teaching Derivatives and Financial Engineering courses (both online and in-person). 
 
-**I will be on the 2024-25 job market.**
+**Oliver Fang will be on the 2024-25 job market.**
