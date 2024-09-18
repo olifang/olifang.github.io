@@ -36,7 +36,7 @@ sections:
       title: 'Recent News'
       subtitle: ''
       text: |-
-        Aug. 14, 2024: I will attend the **2024 FMA Annual Meeting** and present my job market paper at the Doctoral Student Consortium on Oct. 16 and Session 008 (DSC JMP Presentation Session) on Oct. 17. <br>Looking forward to seeing you in Texas! 
+        **[Aug. 2024]** I will attend the **2024 FMA Annual Meeting** and present my job market paper at the Doctoral Student Consortium on Oct. 16 and Session 008 (DSC JMP Presentation Session) on Oct. 17.Looking forward to seeing you in Texas! 
     design:
       columns: '1'
 
@@ -83,7 +83,7 @@ sections:
       subtitle: ''
       text: |-
         No. 64, Sec. 2, Zhinan Road, Wenshan District, Taipei, Taiwan, 11605<br>
-        <108352506@nccu.edu.tw> <br>
+        E-mail: _108352506@nccu.edu.tw_ <br>
         Tel: +886 909712701
     design:
       columns: '1'

@@ -97,6 +97,14 @@ work:
     date_end: 2021-07-31
     summary: ''
 
+  - position: Research Associate of Risk Management
+    company_name: Taiwan Economic Journal (TEJ) Database
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-02-01
+    date_end: 2019-06-30
+    summary: ''
+    
   - position: Research Assistant
     company_name: National Chengchi University & Taiwan Futures Exchange
     company_url: ''
@@ -105,13 +113,7 @@ work:
     date_end: 2018-12-31
     summary: ''
 
-  - position: Research Associate of Risk Management
-    company_name: Taiwan Economic Journal (TEJ) Database
-    company_url: ''
-    company_logo: ''
-    date_start: 2019-02-01
-    date_end: 2019-06-30
-    summary: ''
+
 
 #Skills
 #Add your own SVG icons to `assets/media/icons/`
