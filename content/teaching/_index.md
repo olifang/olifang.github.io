@@ -33,6 +33,6 @@ sections:
         - Teaching assistant, Financial Engineering and Innovations (Master and Ph.D. level), 2018 - 2020
         
         ##### Ningbo University
-        - 
+        - Teaching assistant, Stochastic Process (Undergraduate level), Fall 2015
       
 ---
