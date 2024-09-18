@@ -17,7 +17,7 @@ publishDate: "2024-07-12T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Presented at _2024 FMA Doctoral Student Consortium (scheduled)*, *2024 EFMA Doctoral Seminar*, *2024 SWFA*, *2023 BAR Annual Conference*, *2022 TRIA-FeAT*"
+publication: "Presented at _2024 FMA Doctoral Student Consortium (scheduled)_, *2024 EFMA Doctoral Seminar*, *2024 SWFA*, *2023 BAR Annual Conference*, *2022 TRIA-FeAT*"
 publication_short: ""
 
 abstract: This paper examines how market responses to corporate’s disclosures about economic recessions triggered by events such as SARS, the 2008 subprime crisis, and COVID-19 pandemic. Based on the Management's Discussion and Analysis (MD&A) section in the 10-K and 10-Q filings and the earnings calls transcripts of listed stocks in the U.S. market, we constructed three three disclosure variables, conditional exposure, conditional sentiment, and conditional risk. Empirical results show that the disclosure measures in 10-K & 10-Q filings have different impacts on post-release returns from those in earnings calls. We further explore the causes of this difference through three decompositions. Different from prior research, we find that when discussing economic recessions, the market more reacts to management’s narratives than analysts' questions during earnings calls. Nevertheless, analysts do bring up significant risks during the questioning process. On the other hand, management may obscure risk-related information in the earnings calls, reducing its negative impact on stock returns.
@@ -78,4 +78,4 @@ slides: example
 
 # Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
 ---
-This paper is my *job market paper* and the first paper of my Ph.D. Dissertation "_Two Essays on Financial Information Disclosure_". 
+This paper is my **job market paper*** and the first paper of my Ph.D. Dissertation "_Two Essays on Financial Information Disclosure_". 
