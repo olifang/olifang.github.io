@@ -41,7 +41,7 @@ featured: true
 
 # links:
 # - name: ""
-url: 'review.management.ntu.edu.tw/vol_file.aspx?lang=en&fid=d108-020'
+url: ''
 url_pdf: https://review.management.ntu.edu.tw/paper/9277-P.pdf
 url_code: ''
 url_dataset: ''
@@ -72,6 +72,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+This paper was adapted from Dong-Jie Fang's Master thesis, which won the **_NTU Management Review_ Best Master Thesis Award** in 2019.
 
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
