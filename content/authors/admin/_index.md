@@ -65,7 +65,7 @@ education:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
     
-  - area: M.Sc. in Financial Engineering, 2017
+  - area: M.Sc. in Financial Engineering, 2019
     institution: National Chengchi University
     date_start: 2017-09-01
     date_end: 2019-06-30
@@ -74,7 +74,7 @@ education:
 
       
 
-  - area: B.Econ in Financial Engineering, 2013
+  - area: B.Econ in Financial Engineering, 2017
     institution: Ningbo University
     date_start: 2013-09-01
     date_end: 2017-06-30
