@@ -43,7 +43,7 @@ featured: true
 # - name: ""
 url: https://doi.org/10.6226/NTUMR.202104_31(1).0004
 url_pdf: https://review.management.ntu.edu.tw/paper/9277-P.pdf
-url_code: 
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
