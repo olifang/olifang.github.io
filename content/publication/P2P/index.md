@@ -17,7 +17,7 @@ publishDate: "2024-09-19T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Presented at _*2024 EFMA*, *2024 Eastern FA*, and *2023 TRIA*"
+publication: "Presented at *2024 EFMA*, *2024 Eastern FA*, and *2023 TRIA*"
 
 publication_short: ""
 
@@ -49,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Source from: [**Fang et al. (2024)**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Source from: **Fang et al. (2024)**'
   focal_point: ""
   preview_only: false
 
