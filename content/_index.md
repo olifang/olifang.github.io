@@ -86,7 +86,7 @@ sections:
           - works_in_progress
         # exclude_featured: true
     design:
-      view: list
+      view: compact
 
   - block: markdown
     id: contact
