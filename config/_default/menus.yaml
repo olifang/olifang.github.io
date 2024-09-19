@@ -11,7 +11,7 @@ main:
     url: experience/
     weight: 2
   - name: Research
-    url: /#papers
+    url: /#publications
     weight: 3
   # - name: News
   #   url: /#news
