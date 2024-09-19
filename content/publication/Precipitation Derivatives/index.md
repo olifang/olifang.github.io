@@ -21,7 +21,7 @@ publishDate: "2024-09-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*NTU Management Review, 31*(1)"
+publication: "*NTU Management Review, 31*(1), 117-153"
 publication_short: ""
 
 abstract: In this paper, we explore and analyze the valuation and risk management of rainfall index binary contracts, a type of precipitation derivative issued by the Chicago Mercantile Exchange (CME). We describe the underlying rainfall index with the occurrence model, which is built on a first-order, two-state Markov chain, and with the magnitude model based on mixed exponential distribution. To capture the seasonality characteristics, we describe the parameters of these two models with the truncated Fourier series. Since the weather derivatives market is incomplete due to the essence of its product, we value the rainfall index binary options with the Esscher transform and calibrate the market price of risk (MPR) with real market data. After analyzing the temporal behavior of the MPR, we find that the investors could have more accurate estimations of the rainfall index when approaching the end of the contract period or when entering the accumulation period. We also find that rather than speculators, the market participants are mainly hedgers, which may explain the shrinking of the precipitation derivatives market.  
