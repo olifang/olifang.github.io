@@ -78,4 +78,4 @@ slides: example
 
 # Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
 ---
-This paper is my **job market paper** and the first paper of my Ph.D. Dissertation "_Two Essays on Financial Information Disclosure_". 
+This is my **job market paper** and the first paper of my Ph.D. Dissertation "_Two Essays on Financial Information Disclosure_". 
