@@ -1,3 +1,19 @@
-.courses {
-    max-width: 90%;
+.description {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.course, .text-sm {
+    width: 100%;
+}
+
+ul {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+    .description {
+        max-width: 100%;
+    }
 }
