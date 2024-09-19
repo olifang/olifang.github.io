@@ -9,7 +9,7 @@ date: "2024-04-30T00:00:00Z"
 doi: https://dx.doi.org/10.2139/ssrn.4616030
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-09-20T00:00:00Z"
+publishDate: "2024-09-19T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
