@@ -53,7 +53,7 @@ sections:
   #     columns: 2
 
   - block: collection
-    id: papers
+    id: publications
     content:
       title: Publications
       # text: ""
@@ -65,7 +65,7 @@ sections:
       view: citation
   
   - block: collection
-    id: papers
+    id: working_papers
     content:
       title: Working Papers
       # text: ""
@@ -75,6 +75,18 @@ sections:
         exclude_featured: true
     design:
       view: citation
+
+  - block: collection
+    id: works_in_progress
+    content:
+      title: Works in Progress
+      # text: ""
+      filters:
+        folders:
+          - works_in_progress
+        # exclude_featured: true
+    design:
+      view: list
 
   - block: markdown
     id: contact
