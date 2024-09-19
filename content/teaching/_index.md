@@ -28,7 +28,7 @@ sections:
       subtitle: ''
       text: |-
         #### National Chengchi University
-        - Master theses advisor, Department of Money and Banking 
+        - Master thesis advisor, Department of Money and Banking 
         <br> (12 students), 2019 - 2023
         - Lecturer, Interest Rate Models in Financial Engineering
         <br> (Master and Ph.D. level), 2019 - 2023
