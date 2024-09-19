@@ -86,7 +86,7 @@ sections:
           - works_in_progress
         # exclude_featured: true
     design:
-      view: card
+      view: citation
 
   - block: markdown
     id: contact

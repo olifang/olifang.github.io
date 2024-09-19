@@ -1,10 +1,10 @@
 ---
-title: "Universal Portfolio with Side Information"
+title: "Pricing Renewable Energy Certificate: Evidence from Taiwan Market (T-REC) "
 authors:
+- Pin-Cheng Huang
 - admin
-- Weidong Tian
-- I-Hsuan Ethan Chiang
 - Shih-Kuei Lin
+- Kendro Vincent
 date: "2024-09-01T00:00:00Z"
 doi: ""
 
@@ -26,9 +26,10 @@ abstract: ""
 summary: 
 
 tags:
-- Universal Portfolio
-- FinTech
-- Portfolio Management
+- Sustainable Finance
+- Energy Economics
+- Financial Engineering
+- Renewable Energy Certificate
 
 featured: true
 
