@@ -1,5 +1,5 @@
 /* 在 custom.css 文件中添加 */
 .prose, .flex, .ul, .li {
-    max-width: 1200px; /* 设置你希望的最大宽度 */
+    max-width: 810px; /* 设置你希望的最大宽度 */
     margin: 0 auto;
   }
