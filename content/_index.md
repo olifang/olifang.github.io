@@ -89,6 +89,21 @@ sections:
       view: citation
 
   - block: markdown
+    id: workinprogress
+    content:
+      title: 'Works in Progress'
+      subtitle: ''
+      text: |-
+        - **Universal Portfolio with Side Information**
+        <br>with Weidong Tian, I-Hsuan Ethan Chiang, and Shih-Kuei Lin
+        - **Green Premium, Carbon Emissions, and ESG Score: Evidence from the U.S. Stock Market**
+        <br>with Po-Hsiang Huang, Shih-Kuei Lin, and Kendro Vincent
+        - **Pricing Renewable Energy Certificate: Evidence from Taiwan Market (T-REC)**
+        <br>with Pin-Cheng Huang, Shih-Kuei Lin, and Kendro Vincent
+    design:
+      columns: '1'
+
+  - block: markdown
     id: contact
     content:
       title: 'Contact'
