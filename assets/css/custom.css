@@ -1,0 +1,19 @@
+.description {
+    max-width: 10000px;
+    margin: 0 auto;
+}
+
+.course {
+    width: 100%;
+}
+
+ul {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+    .description {
+        max-width: 100%;
+    }
+}
