@@ -34,9 +34,9 @@ tags:
 
 featured: false
 
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: SSRN
+   url: https://ssrn.com/abstract=4961716
 url_pdf: ''
 url_code: ''
 url_dataset: ''
