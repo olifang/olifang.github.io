@@ -6,7 +6,7 @@ authors:
 - Shih-Kuei Lin
 - Carl R. Chen
 date: "2024-07-12T00:00:00Z"
-doi: ""
+doi: https://dx.doi.org/10.2139/ssrn.4961716
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-07-12T00:00:00Z"
