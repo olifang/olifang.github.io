@@ -100,8 +100,8 @@ sections:
   #       <br>with Po-Hsiang Huang, Shih-Kuei Lin, and Kendro Vincent
   #       - **Pricing Renewable Energy Certificate: Evidence from Taiwan Market (T-REC)**
   #       <br>with Pin-Cheng Huang, Shih-Kuei Lin, and Kendro Vincent
-    design:
-      columns: '1'
+    # design:
+    #   columns: '1'
 
   - block: markdown
     id: contact
