@@ -20,7 +20,7 @@ publication_types: ["manuscript"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "Previous studies have identified a  “green premium” in the stock market, where green assets outperform their brown counterparts. This phenomenon has often been attributed to unexpected increases in climate concerns, leading to the superior performance of green assets. As mitigating climate change becomes a global consensus, we observe a significant shift in market behavior. Our study reveals that green premiums are not as significant as previously assumed. We attribute this to changes in market behavior in response to heightened climate awareness. To corroborate our hypothesis, we employ change point detection techniques. Our findings suggest that the financial market reacts considerably to climate-related events and policy shifts. In particular, we observe significant market responses to the SEC's intensified focus on climate disclosure and the announcement of the Glasgow Climate Pact at COP26."
 
 # Summary. An optional shortened abstract.
 summary: 
