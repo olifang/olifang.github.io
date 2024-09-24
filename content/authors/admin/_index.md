@@ -173,8 +173,8 @@ awards:
 ---
 
 
-Oliver Fang is a Ph.D. candidate in [Money and Banking](https://banking.nccu.edu.tw/?locale=en) at the [National Chengchi University](https://www.nccu.edu.tw/) in Taiwan. His research focuses on sustainable finance,financial information disclosure, financial engineering, and FinTech. Recently, he adopts NLP to investigate the market response to financial disclosure (job market paper) and explore various issues related to ESG financial instruments (e.g., weather derivatives, renewable energy certificates, and ESG REITs). 
+Oliver Fang is a Ph.D. candidate in [Money and Banking](https://banking.nccu.edu.tw/?locale=en) at the [National Chengchi University](https://www.nccu.edu.tw/) in Taiwan. His research focuses on sustainable finance, financial information disclosure, financial engineering, and FinTech. Recently, he adopts NLP to investigate the market response to financial disclosure (job market paper) and explore various issues related to ESG financial instruments (e.g., weather derivatives, renewable energy certificates, and ESG REITs). 
 
-He has published academic papers in _Pacific-Basin Finance journal_ and _NTU Management Review_. He presents his research on many international conferences, including FMA, EFMA, EasternFA, and SWFA. He has rich exprience in supervising Master theses and teaching Derivatives and Financial Engineering courses (both online and in-person). 
+He has published academic papers in _Pacific-Basin Finance journal_ and _NTU Management Review_. He presents his research on many international conferences, including FMA, EFMA, EasternFA, and SWFA. He has rich experience in supervising Master theses and teaching Derivatives and Financial Engineering courses (both online and in-person). 
 
 **Oliver Fang will be on the 2024-25 job market. The job market paper is attached [_here_](https://olifang.github.io/publication/kqec/).**
