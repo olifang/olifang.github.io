@@ -52,7 +52,7 @@ interests:
   - Behavioral Finance
   - Financial Engineering
   - Sustainable Finance
-  - Unstructured Financial Data
+  - Unstructured Data
 
 education:
   - area: Ph.D. Candidate in Money and Banking
@@ -173,7 +173,7 @@ awards:
 ---
 
 
-Oliver Fang is a Ph.D. candidate in [Money and Banking](https://banking.nccu.edu.tw/?locale=en) at the [National Chengchi University](https://www.nccu.edu.tw/) in Taiwan. His research focuses on asset pricing, behavioral finance, financial engineering, sustainable finance, and unstructured financial data. Recently, he adopts NLP to investigate the market response to financial disclosure and explore various issues related to ESG financial instruments (e.g., weather derivatives, renewable energy certificates, and ESG REITs). 
+Oliver Fang is a Ph.D. candidate in [Money and Banking](https://banking.nccu.edu.tw/?locale=en) at the [National Chengchi University](https://www.nccu.edu.tw/) in Taiwan. His research focuses on asset pricing, behavioral finance, financial engineering, sustainable finance, and unstructured data. Recently, he adopts NLP to investigate the market response to financial disclosure and explore various issues related to ESG financial instruments (e.g., weather derivatives, renewable energy certificates, and ESG REITs). 
 
 He has published academic papers in _Pacific-Basin Finance journal_ and _NTU Management Review_. He presents his research on many international conferences, including FMA, EFMA, Eastern FA, and SWFA. He has rich experience in supervising Master theses and teaching Derivatives and Financial Engineering courses (both online and in-person). 
 
