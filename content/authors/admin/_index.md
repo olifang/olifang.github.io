@@ -58,7 +58,6 @@ education:
   - area: Ph.D. Candidate in Money and Banking
     institution: National Chengchi University
     date_start: 2019-09-01
-    date_end: present
     summary: |
       GPA 4.14/4.30 | Ph.D. dissertation: _Two Essays on Financial Information Disclosure_
     # button:
