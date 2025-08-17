@@ -36,7 +36,7 @@ sections:
       title: 'Recent News'
       subtitle: ''
       text: |-
-        **[Aug. 2025]** I will be joining **University of South Florida** as a **Ph.D. student in Finance**. Looking forward to meeting everyone in Tampa!
+        <div style="font-size: 0.9em;" markdown="1">**[Aug. 2025]** I will be joining **University of South Florida** as a **Ph.D. student in Finance**. Looking forward to meeting everyone in Tampa!</div>
     design:
       columns: '1'
 
