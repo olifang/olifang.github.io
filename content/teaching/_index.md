@@ -27,6 +27,7 @@ sections:
       title: 'Teaching'
       subtitle: ''
       text: |-
+        <div style="font-size: 0.9em;" markdown="1">
         #### National Chengchi University
         - Master thesis advisor, Department of Money and Banking 
         <br> (12 students), 2019 - 2023
@@ -39,5 +40,6 @@ sections:
         #### Ningbo University
         - Teaching assistant, Stochastic Process 
         <br> (Undergraduate level), Fall 2015
+        </div>
       
 ---
