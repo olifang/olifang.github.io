@@ -36,7 +36,7 @@ sections:
       title: 'Recent News'
       subtitle: ''
       text: |-
-        **[Aug. 2025]** I will be joining **University of South Florida** as a Ph.D. student in Finance. Looking forward to meeting everyone in Tampa!
+        **[Aug. 2025]** I will be joining **University of South Florida** as a **Ph.D. student in Finance**. Looking forward to meeting everyone in Tampa!
     design:
       columns: '1'
 
@@ -109,11 +109,13 @@ sections:
       title: 'Contact'
       subtitle: ''
       text: |-
+        <div style="font-size: 0.9em;">
         Kate Tiedemann School of Business and Finance, University of South Florida <br>
         4202 E. Fowler Avenue, BSN 3403, <br>
         Tampa, FL 33620, US <br>
         E-mail: <a href="mailto: dfang@usf.edu"> _dfang@usf.edu_ </a> <br>
        # Tel: +886 909712701
+        </div>
     design:
       columns: '1'
 
