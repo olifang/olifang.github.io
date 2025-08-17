@@ -177,7 +177,7 @@ awards:
 ---
 
 <div style="text-align: justify;" markdown="1">
-Oliver Fang is a Ph.D. student in [Finance](https://www.usf.edu/business/schools/business-finance/) at the [University of South Florida](https://www.usf.edu/). His research focuses on asset pricing, behavioral finance, unstructured data, financial engineering, and climate finance. 
+Oliver Fang is a Ph.D. student in [Ningbo University](https://www.nbu.edu.cn/en/) at the [Ningbo University](https://www.nbu.edu.cn/en/). His research focuses on asset pricing, behavioral finance, unstructured data, financial engineering, and climate finance. 
 
 He has published academic papers in _Pacific-Basin Finance Journal_ and _NTU Management Review_. He presents his research on many international conferences, including FMA, EFMA, EasternFA, SWFA and PBFEAM. He has rich experience in supervising Master theses and teaching derivatives and financial engineering courses. 
 
