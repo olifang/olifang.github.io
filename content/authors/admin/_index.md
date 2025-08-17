@@ -52,7 +52,6 @@ interests:
   - Behavioral Finance
   - Unstructured Data
   - Financial Engineering
-  - Climate Finance
 
 education:
   - area: Ph.D. Student in Finance

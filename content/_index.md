@@ -114,7 +114,6 @@ sections:
         4202 E. Fowler Avenue, BSN 3403, <br>
         Tampa, FL 33620, US <br>
         E-mail: <a href="mailto: dfang@usf.edu"> _dfang@usf.edu_ </a> <br>
-       # Tel: +886 909712701
         </div>
     design:
       columns: '1'
