@@ -175,6 +175,6 @@ awards:
 
 Oliver Fang is a Ph.D. student in [Finance](https://www.usf.edu/business/schools/business-finance/) at the [University of South Florida](https://www.usf.edu/). His research focuses on asset pricing, behavioral finance, unstructured data, financial engineering, and climate finance. Recently, he adopts NLP to investigate the market response to financial disclosure and explore various issues related to ESG financial instruments (e.g., weather derivatives, renewable energy certificates, and ESG REITs). 
 
-He has published academic papers in _Pacific-Basin Finance journal_ and _NTU Management Review_. He presents his research on many international conferences, including FMA, EFMA, EasternFA, SWFA and PBFEAM. He has rich experience in supervising Master theses and teaching derivatives and financial engineering courses (both online and in-person). 
+He has published academic papers in _Pacific-Basin Finance journal_ and _NTU Management Review_. He presents his research on many international conferences, including FMA, EFMA, EasternFA, SWFA and PBFEAM. He has rich experience in supervising Master theses and teaching derivatives and financial engineering courses (both online and in-person). dd
 
 
