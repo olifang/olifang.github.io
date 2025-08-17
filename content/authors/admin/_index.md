@@ -55,6 +55,11 @@ interests:
   - Climate Finance
 
 education:
+  - area: Ph.D. in Finance
+    institution: University of South Florida
+    date_start: 2025-08-01
+
+
   - area: Ph.D. in Money and Banking
     institution: National Chengchi University
     date_start: 2019-09-01
