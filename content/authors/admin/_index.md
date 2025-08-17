@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Dong-Jie Oliver Fang
+title: Dongjie Oliver Fang
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Dong-Jie
+first_name: Dongjie
 last_name: Fang
 
 # Status emoji
@@ -179,7 +179,7 @@ awards:
 <div style="text-align: justify;" markdown="1">
 Oliver Fang is a Ph.D. student in <a href="https://www.usf.edu/business/schools/business-finance/">Finance</a> at the <a href="https://www.usf.edu/">University of South Florida</a>. His research focuses on asset pricing, behavioral finance, unstructured data, financial engineering, and climate finance. 
 
-He has published academic papers in _Pacific-Basin Finance Journal_ and _NTU Management Review_. He presents his research on many international conferences, including FMA, EFMA, EasternFA, SWFA and PBFEAM. He has rich experience in supervising Master theses and teaching derivatives and financial engineering courses. 
+He has published academic papers in _Pacific-Basin Finance Journal_ and _NTU Management Review_. He presents his research at many international conferences, including FMA, EFMA, EasternFA, SWFA, and PBFEAM. He has rich experience in supervising Master theses and teaching financial engineering courses. 
 
 Oliver Fang holds a B.E. in Financial Engineering from [Ningbo University](https://www.nbu.edu.cn/en/), a M.S. in Money and Banking with Concentration in Financial Engineering and FinTech, and a Ph.D. in Money and Banking from [National Chengchi University](https://www.nccu.edu.tw/index.php?Lang=en).
 </div>
