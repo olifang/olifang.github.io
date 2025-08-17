@@ -179,6 +179,7 @@ awards:
 
 Oliver Fang is a Ph.D. student in [Finance](https://www.usf.edu/business/schools/business-finance/) at the [University of South Florida](https://www.usf.edu/). His research focuses on asset pricing, behavioral finance, unstructured data, financial engineering, and climate finance. 
 
-He has published academic papers in _Pacific-Basin Finance journal_ and _NTU Management Review_. He presents his research on many international conferences, including FMA, EFMA, EasternFA, SWFA and PBFEAM. He has rich experience in supervising Master theses and teaching derivatives and financial engineering courses (both online and in-person). 
+He has published academic papers in _Pacific-Basin Finance journal_ and _NTU Management Review_. He presents his research on many international conferences, including FMA, EFMA, EasternFA, SWFA and PBFEAM. He has rich experience in supervising Master theses and teaching derivatives and financial engineering courses. 
 
+Oliver Fang holds a B.E. in Financial Engineering from [Ningbo University](https://www.nbu.edu.cn/en/), a M.S. in Money and Banking with Concentration in Financial Engineering and FinTech, and a Ph.D. in Money and Banking from [National Chengchi University](https://www.nccu.edu.tw/index.php?Lang=en). 
 
