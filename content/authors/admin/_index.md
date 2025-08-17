@@ -181,3 +181,8 @@ Oliver Fang is a Ph.D. student in [Finance](https://www.usf.edu/business/schools
 
 He has published academic papers in _Pacific-Basin Finance journal_ and _NTU Management Review_. He presents his research on many international conferences, including FMA, EFMA, EasternFA, SWFA and PBFEAM. He has rich experience in supervising Master theses and teaching derivatives and financial engineering courses (both online and in-person). 
 </div>
+
+## Recent News
+<div style="font-size: 0.9em;" markdown="1">
+**[Aug. 2025]** I will be joining **University of South Florida** as a **Ph.D. student in Finance**. Looking forward to meeting everyone in Tampa!
+</div>
