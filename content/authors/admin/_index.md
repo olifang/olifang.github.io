@@ -20,20 +20,20 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Money and Banking
+role: Ph.D. Student in Finance
 
 # Organizations/Affiliations to display in Biography blox
 
 organizations:
-  - name: National Chengchi University
-    url: https://www.nccu.edu.tw/index.php?Lang=en
+  - name: University of South Florida
+    url: https://www.usf.edu/
 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: hero/envelope #at-symbol
-    url: 'mailto:108352506@nccu.edu.tw'
+    url: 'mailto:dfang@usf.edu'
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/dongjiefang/ 
@@ -50,16 +50,17 @@ profiles:
 interests:
   - Asset Pricing
   - Behavioral Finance
-  - Financial Engineering
-  - Sustainable Finance
   - Unstructured Data
+  - Financial Engineering
+  - Climate Finance
 
 education:
-  - area: Ph.D. Candidate in Money and Banking
+  - area: Ph.D. in Money and Banking
     institution: National Chengchi University
     date_start: 2019-09-01
+    date_end: 2025-06-30
     summary: |
-      GPA 4.14/4.30 | Ph.D. dissertation: _Two Essays on Financial Information Disclosure_
+      GPA 4.14/4.30 | Ph.D. dissertation: _Two Essays on Financial Information Disclosure in COVID-19 Pandemic_
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
@@ -172,11 +173,8 @@ awards:
 ---
 
 
-Oliver Fang is a Ph.D. candidate in [Money and Banking](https://banking.nccu.edu.tw/?locale=en) at the [National Chengchi University](https://www.nccu.edu.tw/) in Taiwan. His research focuses on asset pricing, behavioral finance, financial engineering, sustainable finance, and unstructured data. Recently, he adopts NLP to investigate the market response to financial disclosure and explore various issues related to ESG financial instruments (e.g., weather derivatives, renewable energy certificates, and ESG REITs). 
+Oliver Fang is a Ph.D. student in [Finance](https://www.usf.edu/business/schools/business-finance/) at the [University of South Florida](https://www.usf.edu/). His research focuses on asset pricing, behavioral finance, unstructured data, financial engineering, and climate finance. Recently, he adopts NLP to investigate the market response to financial disclosure and explore various issues related to ESG financial instruments (e.g., weather derivatives, renewable energy certificates, and ESG REITs). 
 
-He has published academic papers in _Pacific-Basin Finance journal_ and _NTU Management Review_. He presents his research on many international conferences, including FMA, EFMA, Eastern FA, and SWFA. He has rich experience in supervising Master theses and teaching Derivatives and Financial Engineering courses (both online and in-person). 
-
-
+He has published academic papers in _Pacific-Basin Finance journal_ and _NTU Management Review_. He presents his research on many international conferences, including FMA, EFMA, EasternFA, SWFA and PBFEAM. He has rich experience in supervising Master theses and teaching derivatives and financial engineering courses (both online and in-person). 
 
 
- 
