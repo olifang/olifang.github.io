@@ -176,9 +176,8 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-
+<div style="text-align: justify;">
 Oliver Fang is a Ph.D. student in [Finance](https://www.usf.edu/business/schools/business-finance/) at the [University of South Florida](https://www.usf.edu/). His research focuses on asset pricing, behavioral finance, unstructured data, financial engineering, and climate finance. 
 
 He has published academic papers in _Pacific-Basin Finance journal_ and _NTU Management Review_. He presents his research on many international conferences, including FMA, EFMA, EasternFA, SWFA and PBFEAM. He has rich experience in supervising Master theses and teaching derivatives and financial engineering courses (both online and in-person). 
-
-
+</div>
