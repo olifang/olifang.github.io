@@ -55,7 +55,7 @@ interests:
   - Climate Finance
 
 education:
-  - area: Ph.D. in Finance
+  - area: Ph.D. Student in Finance
     institution: University of South Florida
     date_start: 2025-08-01
 
