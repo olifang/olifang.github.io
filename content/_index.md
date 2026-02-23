@@ -111,7 +111,7 @@ sections:
       text: |-
         <div style="font-size: 0.9em;">
         Kate Tiedemann School of Business and Finance, University of South Florida <br>
-        BSN 3403, 4202 E. Fowler Ave.<br>
+        4202 E. Fowler Ave., BSN 3403<br>
         Tampa, FL 33620, US <br>
         Email: <a href="mailto: dfang@usf.edu"> dfang@usf.edu </a> <br>
         </div>
