@@ -178,5 +178,5 @@ Oliver Fang is a Ph.D. student in <a href="https://www.usf.edu/business/schools/
 
 He has published academic papers in _Pacific-Basin Finance Journal_ and _NTU Management Review_. He presents his research at many international conferences, including FMA, EFMA, EasternFA, and SWFA. He has rich experience in supervising Master theses and teaching financial engineering courses. 
 
-He holds a Ph.D. in Money and Banking, a M.Sc. in Money and Banking (with Concentration in Financial Engineering and FinTech) from [National Chengchi University](https://www.nccu.edu.tw/index.php?Lang=en), and a B.E. in Financial Engineering from [Ningbo University](https://www.nbu.edu.cn/en/).
+He holds a Ph.D. in Money and Banking, a M.Sc. in Money and Banking (with Concentration in Financial Engineering and FinTech) from [National Chengchi University](https://www.nccu.edu.tw/index.php?Lang=en), and a B.Econ in Financial Engineering from [Ningbo University](https://www.nbu.edu.cn/en/).
 </div>
