@@ -39,7 +39,7 @@ sections:
         <br> (Graduate), 2018 - 2020
         
         #### Ningbo University
-        - Teaching Assistant, Stochastic Process 
+        - TA, Stochastic Process 
         <br> (Undergraduate), Fall 2015
         </div>
       
