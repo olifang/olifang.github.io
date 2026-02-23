@@ -63,7 +63,7 @@ education:
     date_start: 2017-09-01
     date_end: 2025-06-30
     summary: |
-      GPA 4.14/4.30 | Ph.D. dissertation: _Two Essays on Financial Information Disclosure in COVID-19 Pandemic_
+      Ph.D. dissertation: _Two Essays on Financial Information Disclosure in COVID-19 Pandemic_
  #     GPA: 4.21/4.30 | Master thesis: _Valuation and Risk Management of Weather Derivatives: The Application of CME Rainfall Index Binary Contracts_
     # button:
     #   text: 'Read Thesis'
