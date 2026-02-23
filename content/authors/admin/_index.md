@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dongjie Oliver Fang
+title: Dongjie (Oliver) Fang
 
 # Name pronunciation (optional)
 name_pronunciation: ''
