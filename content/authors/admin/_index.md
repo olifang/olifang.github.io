@@ -118,20 +118,20 @@ work:
 #Skills
 #Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack 
+  # - name: Technical Skills
+  #   items:
+  #     - name: Python
+  #       description: ''
+  #       percent: 80
+  #       icon: code-bracket
+  #     - name: Data Science
+  #       description: ''
+  #       percent: 100
+  #       icon: chart-bar
+  #     - name: SQL
+  #       description: ''
+  #       percent: 40
+  #       icon: circle-stack 
 
 languages:
   - name: English
@@ -178,5 +178,5 @@ Oliver Fang is a Ph.D. student in <a href="https://www.usf.edu/business/schools/
 
 He has published academic papers in _Pacific-Basin Finance Journal_ and _NTU Management Review_. He presents his research at many international conferences, including FMA, EFMA, EasternFA, and SWFA. He has rich experience in supervising Master theses and teaching financial engineering courses. 
 
-Oliver Fang holds a B.E. in Financial Engineering from [Ningbo University](https://www.nbu.edu.cn/en/), a M.S. in Money and Banking with Concentration in Financial Engineering and FinTech, and a Ph.D. in Money and Banking from [National Chengchi University](https://www.nccu.edu.tw/index.php?Lang=en).
+He holds a Ph.D. in Money and Banking, a M.Sc. in Money and Banking (with Concentration in Financial Engineering and FinTech) from [National Chengchi University](https://www.nccu.edu.tw/index.php?Lang=en), and a B.E. in Financial Engineering from [Ningbo University](https://www.nbu.edu.cn/en/).
 </div>
