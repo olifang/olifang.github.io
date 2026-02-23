@@ -48,7 +48,6 @@ profiles:
     #url: https://orcid.org/0000-0002-8234-0820
 
 interests:
-  - Asset Pricing
   - Behavioral Finance
   - Unstructured Data
   - Financial Engineering
@@ -59,24 +58,23 @@ education:
     date_start: 2025-08-01
 
 
-  - area: Ph.D. in Money and Banking
+  - area: Ph.D. & M.Sc. in Money and Banking
     institution: National Chengchi University
-    date_start: 2019-09-01
+    date_start: 2017-09-01
     date_end: 2025-06-30
     summary: |
+      GPA: 4.21/4.30 | Master thesis: _Valuation and Risk Management of Weather Derivatives: The Application of CME Rainfall Index Binary Contracts_\\
       GPA 4.14/4.30 | Ph.D. dissertation: _Two Essays on Financial Information Disclosure in COVID-19 Pandemic_
+
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
     
-  - area: M.Sc. in Money and Banking
-    institution: National Chengchi University
-    date_start: 2017-09-01
-    date_end: 2019-06-30
-    summary: |
-      GPA: 4.21/4.30 | Master thesis: _Valuation and Risk Management of Weather Derivatives: The Application of CME Rainfall Index Binary Contracts_
-
-      
+  # - area: M.Sc. in Money and Banking
+  #   institution: National Chengchi University
+  #   date_start: 2017-09-01
+  #   date_end: 2019-06-30
+  #   summary: |
 
   - area: B.Econ in Financial Engineering
     institution: Ningbo University
@@ -86,7 +84,7 @@ education:
 
 work:
   - position: Visiting Ph.D. Student, Department of Finance
-    company_name: University of North Carolina at Charlotte (UNC Charlotte)
+    company_name: University of North Carolina at Charlotte
     company_url: https://belkcollege.charlotte.edu/departments/finance/
     company_logo: ''
     date_start: 2024-02-01
@@ -177,9 +175,9 @@ awards:
 ---
 
 <div style="text-align: justify;" markdown="1">
-Oliver Fang is a Ph.D. student in <a href="https://www.usf.edu/business/schools/business-finance/">Finance</a> at the <a href="https://www.usf.edu/">University of South Florida</a>. His research focuses on asset pricing, behavioral finance, unstructured data, and derivatives. 
+Oliver Fang is a Ph.D. student in <a href="https://www.usf.edu/business/schools/business-finance/">Finance</a> at the <a href="https://www.usf.edu/">University of South Florida</a>. His research focuses on behavioral finance, unstructured data, and derivatives. 
 
-He has published academic papers in _Pacific-Basin Finance Journal_ and _NTU Management Review_. He presents his research at many international conferences, including FMA, EFMA, EasternFA, SWFA, and PBFEAM. He has rich experience in supervising Master theses and teaching financial engineering courses. 
+He has published academic papers in _Pacific-Basin Finance Journal_ and _NTU Management Review_. He presents his research at many international conferences, including FMA, EFMA, EasternFA, and SWFA. He has rich experience in supervising Master theses and teaching financial engineering courses. 
 
 Oliver Fang holds a B.E. in Financial Engineering from [Ningbo University](https://www.nbu.edu.cn/en/), a M.S. in Money and Banking with Concentration in Financial Engineering and FinTech, and a Ph.D. in Money and Banking from [National Chengchi University](https://www.nccu.edu.tw/index.php?Lang=en).
 </div>
