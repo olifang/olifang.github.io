@@ -31,14 +31,14 @@ sections:
           position: center
           parallax: false
   
-  - block: markdown
-    content:
-      title: 'Recent News'
-      subtitle: ''
-      text: |-
-        <span style="font-size: 0.9em;" markdown="1">**[Aug. 2025]** I will be joining **University of South Florida** as a **Ph.D. student in Finance**. Looking forward to meeting everyone in Tampa!</span>
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: 'Recent News'
+  #     subtitle: ''
+  #     text: |-
+  #       <span style="font-size: 0.9em;" markdown="1">**[Aug. 2025]** I will be joining **University of South Florida** as a **Ph.D. student in Finance**. Looking forward to meeting everyone in Tampa!</span>
+  #   design:
+  #     columns: '1'
 
   # - block: collection
   #   id: papers
@@ -76,17 +76,17 @@ sections:
     design:
       view: citation
 
-  - block: collection
-    id: works_in_progress
-    content:
-      title: Works in Progress
-      # text: ""
-      filters:
-        folders:
-          - works_in_progress
-        # exclude_featured: true
-    design:
-      view: citation
+  # - block: collection
+  #   id: works_in_progress
+  #   content:
+  #     title: Works in Progress
+  #     # text: ""
+  #     filters:
+  #       folders:
+  #         - works_in_progress
+  #       # exclude_featured: true
+  #   design:
+  #     view: citation
 
   # - block: markdown
   #   id: workinprogress
