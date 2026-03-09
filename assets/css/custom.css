@@ -3,3 +3,9 @@
     max-width: 810px; /* 设置你希望的最大宽度 */
     /* margin: 0 auto;
   } */ 
+
+/* 強制使用高清大頭照替換原本模糊的縮水圖 */
+img.avatar {
+    content: url("/img/avatar-hd.png") !important;
+    object-fit: cover;
+}
