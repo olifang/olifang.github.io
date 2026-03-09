@@ -4,8 +4,20 @@
     /* margin: 0 auto;
   } */ 
 
-/* 強制使用高清大頭照替換原本模糊的縮水圖 */
+/* 照片清晰 + 位置居中 */
 img.avatar {
+    /* 1. 繼續使用我們的高清原圖 */
     content: url("/img/avatar-hd.png") !important;
-    object-fit: cover;
+    
+    /* 2. 手動還原模板原本的頭像尺寸 (Hugo Academic 模板預設是 150px) */
+    width: 150px !important;
+    height: 150px !important;
+    
+    /* 3. 確保圖片縮放時不會變形，且填滿圓圈 */
+    object-fit: cover !important;
+    
+    /* 4. 強制水平居中 */
+    margin-left: auto !important;
+    margin-right: auto !important;
+    display: block !important;
 }
