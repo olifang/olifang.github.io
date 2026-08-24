@@ -49,8 +49,9 @@ profiles:
 
 interests:
   - Behavioral Finance
-  - Unstructured Data
-  - Financial Engineering
+  - Labor and Finance
+  - FinTech
+  - Derivatives
 
 education:
   - area: Ph.D. Student in Finance
@@ -174,7 +175,7 @@ awards:
 ---
 
 <div style="text-align: justify;" markdown="1">
-Oliver Fang is a Ph.D. student in <a href="https://www.usf.edu/business/schools/business-finance/">Finance</a> at the <a href="https://www.usf.edu/">University of South Florida</a>. His research focuses on behavioral finance, unstructured data, and derivatives. 
+Oliver Fang is a Ph.D. student in <a href="https://www.usf.edu/business/schools/business-finance/">Finance</a> at the <a href="https://www.usf.edu/">University of South Florida</a>. His research focuses on behavioral finance, labor finance, FinTech, and derivatives. 
 
 He has published academic papers in _Pacific-Basin Finance Journal_ and _NTU Management Review_. He presents his research at many international conferences, including FMA, EFMA, EasternFA, and SWFA. He has rich experience in supervising Master theses and teaching financial engineering courses. 
 

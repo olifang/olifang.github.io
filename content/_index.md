@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: https://usf.box.com/s/wsn8bmc9x4kp7bgqnyji4yg3hw3c1ipn
+        url: https://usf.box.com/s/k9g864k4o6t23z1psg74t8qr8a5zez93
     design:
       css_class: dark
       background:
