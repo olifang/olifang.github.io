@@ -7,7 +7,7 @@ authors:
 - Shih-Kuei Lin
 date: "2024-04-30T00:00:00Z"
 publication_types: ["manuscript"]
-publication: "R&R at _Review of Quantitative Finance and Accounting_."
+publication: "R&R at _Review of Quantitative Finance and Accounting_"
 publication_short: ""
 abstract: ""
 summary: ""
