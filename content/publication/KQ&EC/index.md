@@ -7,7 +7,7 @@ authors:
 - Carl R. Chen
 date: "2024-07-12T00:00:00Z"
 publication_types: ["manuscript"]
-publication: "Presented at _2024 FMA Doctoral Student Consortium_, _2024 EFMA Doctoral Seminar_, _2024 SWFA_, _2023 BAR Annual Conference_, and _2022 TRIA-FeAT_."
+publication: "Presented at _2024 FMA Doctoral Student Consortium_, _2024 EFMA Doctoral Seminar_, _2024 SWFA_, _2023 BAR Annual Conference_, and _2022 TRIA-FeAT_"
 publication_short: ""
 abstract: ""
 summary: ""
