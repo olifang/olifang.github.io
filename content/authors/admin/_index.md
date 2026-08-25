@@ -36,14 +36,14 @@ education:
   - area: Ph.D. Student in Business Administration (Finance Concentration)
     institution: University of South Florida
     date_start: 2025-08-01
-  - area: Visiting Ph.D. Student
-    institution: University of North Carolina at Charlotte
-    date_start: 2024-02-01
-    date_end: 2024-05-31
   - area: Ph.D. in Money and Banking
     institution: National Chengchi University
     date_start: 2019-09-01
     date_end: 2025-06-30
+  - area: Visiting Ph.D. Student
+    institution: University of North Carolina at Charlotte
+    date_start: 2024-02-01
+    date_end: 2024-05-31
   - area: M.Sc. in Money and Banking
     institution: National Chengchi University
     date_start: 2017-09-01
