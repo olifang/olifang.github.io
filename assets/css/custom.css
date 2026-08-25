@@ -32,3 +32,8 @@ img.avatar {
     font-size: 1rem;
     line-height: 1.5rem;
 }
+
+/* Reduce the vertical gap between every collection heading and its list. */
+.hbb-section.blox-collection > .flex.flex-col.items-center > .mt-16 {
+    margin-top: 2rem !important;
+}
