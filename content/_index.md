@@ -48,19 +48,15 @@ sections:
     design:
       view: citation
 
-  - block: markdown
+  - block: collection
     id: works_in_progress
     content:
-      title: 'Works in Progress'
-      subtitle: ''
-      text: |-
-        <div style="font-size: 1.25rem; line-height: 1.5; color: #111827;">
-          <p style="margin: 0 0 1.5rem;">PEAD Decline and Dark Pool Transparency</p>
-          <p style="margin: 0 0 1.5rem;">A Project on Labor and Finance (with Meng Wang and Liuming Yang)</p>
-          <p style="margin: 0;">A Project on Corporate Finance (with Meng Wang and Xinyan Yan)</p>
-        </div>
+      title: Works in Progress
+      filters:
+        folders:
+          - works_in_progress
     design:
-      columns: '1'
+      view: citation
 
   - block: markdown
     id: contact
