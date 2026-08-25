@@ -48,15 +48,17 @@ sections:
     design:
       view: citation
 
-  - block: collection
+  - block: markdown
     id: works_in_progress
     content:
-      title: Works in Progress
-      filters:
-        folders:
-          - works_in_progress
+      title: 'Works in Progress'
+      subtitle: ''
+      text: |-
+        - PEAD Decline and Dark Pool Transparency
+        - A Project on Labor and Finance (with Meng Wang and Liuming Yang)
+        - A Project on Corporate Finance (with Meng Wang and Xinyan Yan)
     design:
-      view: citation
+      columns: '1'
 
   - block: markdown
     id: contact
@@ -66,7 +68,7 @@ sections:
       text: |-
         <div style="font-size: 0.9em;">
         Kate Tiedemann School of Business and Finance, University of South Florida<br>
-        4202 East Fowler Avenue, Tampa, FL 33620, U.S.<br>
+        4202 East Fowler Avenue, Tampa, FL 33620<br>
         Email: <a href="mailto:dfang@usf.edu">dfang@usf.edu</a><br>
         </div>
     design:
