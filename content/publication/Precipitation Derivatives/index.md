@@ -6,7 +6,7 @@ authors:
 - admin
 date: "2021-04-01T00:00:00Z"
 publication_types: ["article-journal"]
-publication: "_NTU Management Review_, 31(1), 117–153."
+publication: "_NTU Management Review_, 31(1), 117–153"
 publication_short: ""
 abstract: ""
 summary: ""
