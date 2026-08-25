@@ -54,7 +54,7 @@ sections:
       title: 'Works in Progress'
       subtitle: ''
       text: |-
-        <div style="width: min(calc(100vw - 10rem), 90rem); max-width: none; position: relative; left: 50%; transform: translateX(-50%); font-size: 1.25rem; line-height: 1.5; color: #111827;">
+        <div style="font-size: 1.25rem; line-height: 1.5; color: #111827;">
           <p style="margin: 0 0 1.5rem;">PEAD Decline and Dark Pool Transparency</p>
           <p style="margin: 0 0 1.5rem;">A Project on Labor and Finance (with Meng Wang and Liuming Yang)</p>
           <p style="margin: 0;">A Project on Corporate Finance (with Meng Wang and Xinyan Yan)</p>
