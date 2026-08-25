@@ -54,7 +54,7 @@ education:
     date_end: 2017-06-30
 
 work:
-  - position: Research Assistant to Professor Xinyan Yan
+  - position: Research Assistant
     company_name: University of South Florida
     company_url: https://www.usf.edu/business/
     date_start: 2025-08-01
