@@ -16,6 +16,9 @@ tags:
 - Asset Pricing
 - Derivatives
 featured: true
+links:
+- name: SSRN
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4768825
 projects: []
 slides: ""
 ---
