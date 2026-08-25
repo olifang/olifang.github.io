@@ -36,7 +36,7 @@ education:
   - area: Ph.D. Student in Business Administration (Finance Concentration)
     institution: University of South Florida
     date_start: 2025-08-01
-  - area: Visiting Ph.D. Student, Department of Finance
+  - area: Visiting Ph.D. Student
     institution: University of North Carolina at Charlotte
     date_start: 2024-02-01
     date_end: 2024-05-31
@@ -48,7 +48,7 @@ education:
     institution: National Chengchi University
     date_start: 2017-09-01
     date_end: 2019-06-30
-  - area: B.Econ. in Financial Engineering, Department of Mathematics
+  - area: B.Econ. in Financial Engineering
     institution: Ningbo University
     date_start: 2013-09-01
     date_end: 2017-06-30
