@@ -21,3 +21,14 @@ img.avatar {
     margin-right: auto !important;
     display: block !important;
 }
+
+/* Works in Progress uses the same citation layout as Working Papers.
+   Hide automatic empty author/year punctuation while retaining citation typography. */
+#works_in_progress .pub-list-item.view-citation {
+    font-size: 0;
+}
+#works_in_progress .pub-list-item.view-citation .pub-icon,
+#works_in_progress .pub-list-item.view-citation a {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
