@@ -16,6 +16,9 @@ tags:
 - Text Mining
 - Natural Language Processing
 featured: false
+links:
+- name: SSRN
+  url: https://ssrn.com/abstract=4961716
 projects: []
 slides: ""
 ---
