@@ -107,7 +107,7 @@ awards:
 
 Oliver Fang is a Ph.D. student in Finance at the [Kate Tiedemann School of Business and Finance](https://www.usf.edu/business/schools/business-finance/) at the [University of South Florida](https://www.usf.edu/). His research interests include behavioral finance, labor and finance, FinTech, and derivatives.
 
-His research has appeared in _Pacific-Basin Finance Journal_ and _NTU Management Review_. He has presented at FMA, EFMA, EasternFA, SWFA, PBFEAM, TFA, and other conferences. He has experience supervising master's theses and teaching financial-engineering courses.
+His research has appeared in _Pacific-Basin Finance Journal_ and _NTU Management Review_. He has presented at FMA, EFMA, EasternFA, SWFA, PBFEAM, TFA, and other conferences. He has rich experience supervising master's theses and teaching financial-engineering courses.
 
 He holds a Ph.D. and an M.Sc. in Money and Banking from [National Chengchi University](https://www.nccu.edu.tw/index.php?Lang=en), and a B.Econ. in Financial Engineering from [Ningbo University](https://www.nbu.edu.cn/en/).
 
