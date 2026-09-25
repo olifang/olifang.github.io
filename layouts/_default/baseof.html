@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}Dongjie (Oliver) Fang{{ else }}{{ .Title }} | Dongjie (Oliver) Fang{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}Dongjie (Oliver) Fang is a Ph.D. student in Finance at the University of South Florida.{{ end }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="icon" type="image/png" href="{{ "/img/usf-bulls-logo.png" | relURL }}">
+  <link rel="preconnect" href="https://cdn.jsdelivr.net">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/cormorant-garamond@5/500.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/cormorant-garamond@5/600.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/cormorant-garamond@5/700.css">
+  <link rel="stylesheet" href="{{ "/css/site.css" | relURL }}">
+</head>
+<body>
+  {{ partial "site-header.html" . }}
+  {{ block "main" . }}{{ end }}
+  {{ partial "site-footer.html" . }}
+</body>
+</html>

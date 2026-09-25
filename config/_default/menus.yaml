@@ -7,21 +7,12 @@ main:
   - name: Home
     url: /
     weight: 1
-  - name: About
-    url: experience/
-    weight: 2
   - name: Research
-    url: /#publications
-    weight: 3
-  # - name: News
-  #   url: /#news
-  #   weight: 11
+    url: /research/
+    weight: 2
   - name: Teaching
-    url: teaching/
+    url: /teaching/
+    weight: 3
+  - name: CV
+    url: https://usf.box.com/s/k9g864k4o6t23z1psg74t8qr8a5zez93
     weight: 4
-  # - name: Links
-  #   url: projects/
-  #   weight: 5
-  - name: Contact
-    url: /#contact
-    weight: 6

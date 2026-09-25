@@ -6,7 +6,7 @@
 # Website name
 title: Dongjie (Oliver) Fang
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://olifang.github.io/'
 
 ############################
 ## LANGUAGE
@@ -29,7 +29,17 @@ paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
-ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
+ignoreFiles:
+  - \.ipynb$
+  - .ipynb_checkpoints$
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+  - content/post/
+  - content/event/
+  - content/project/
+  - content/teaching/js/
+  - content/teaching/python/
 permalinks:
   authors: '/author/:slug/'
 disableAliases: true

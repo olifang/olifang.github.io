@@ -1,0 +1,25 @@
+{{ define "main" }}
+{{ $publications := where (where site.RegularPages "Section" "publication") ".Params.featured" true }}
+{{ $working := where (where site.RegularPages "Section" "publication") ".Params.featured" "!=" true }}
+{{ $progress := where site.RegularPages "Section" "works_in_progress" }}
+<main class="page-shell research-page">
+  <header class="page-header">
+    <h1 class="gold-title">Research</h1>
+  </header>
+
+  <section class="research-section" aria-labelledby="publications-heading">
+    <div class="section-label" id="publications-heading">Publications</div>
+    <div>{{ partial "paper-list.html" $publications.ByDate.Reverse }}</div>
+  </section>
+
+  <section class="research-section" aria-labelledby="working-heading">
+    <div class="section-label" id="working-heading">Working Papers</div>
+    <div>{{ partial "paper-list.html" $working.ByDate.Reverse }}</div>
+  </section>
+
+  <section class="research-section" aria-labelledby="progress-heading">
+    <div class="section-label" id="progress-heading">Works in Progress</div>
+    <div>{{ partial "paper-list.html" $progress.ByDate.Reverse }}</div>
+  </section>
+</main>
+{{ end }}

@@ -1,0 +1,4 @@
+{{- range $index, $author := . -}}
+  {{- if $index }}, {{ end -}}
+  {{- if eq $author "admin" -}}Dongjie (Oliver) Fang{{- else -}}{{ $author }}{{- end -}}
+{{- end -}}

@@ -1,0 +1,11 @@
+<nav class="site-nav" aria-label="Primary navigation">
+  <div class="nav-inner">
+    <a class="wordmark" href="{{ "/" | relURL }}">Oliver Fang</a>
+    <div class="nav-links">
+      <a {{ if .IsHome }}class="active"{{ end }} href="{{ "/" | relURL }}">Home</a>
+      <a {{ if eq .Section "research" }}class="active"{{ end }} href="{{ "/research/" | relURL }}">Research</a>
+      <a {{ if eq .Section "teaching" }}class="active"{{ end }} href="{{ "/teaching/" | relURL }}">Teaching</a>
+      <a href="https://usf.box.com/s/k9g864k4o6t23z1psg74t8qr8a5zez93" target="_blank" rel="noopener">CV</a>
+    </div>
+  </div>
+</nav>

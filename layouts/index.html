@@ -1,0 +1,47 @@
+{{ define "main" }}
+{{ $author := site.GetPage "/authors/admin" }}
+<header class="hero">
+  <div class="hero-inner">
+    <div class="portrait-wrap">
+      <img src="{{ "/img/avatar-hd.png" | relURL }}" alt="Dongjie (Oliver) Fang" class="portrait">
+    </div>
+    <div class="hero-copy">
+      <h1>Dongjie <span>(Oliver)</span> Fang</h1>
+      <p class="eyebrow">Ph.D. Student in Finance · University of South Florida</p>
+      <p class="research-fields">{{ delimit $author.Params.interests " · " }}</p>
+      <div class="profile-links" aria-label="Professional profiles">
+        {{ range $author.Params.profiles }}
+          {{ if ne .icon "brands/github" }}
+            <a href="{{ .url }}" {{ if not (hasPrefix .url "mailto:") }}target="_blank" rel="noopener"{{ end }}>{{ partial "profile-link-label.html" . }}</a>
+          {{ end }}
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</header>
+
+<main class="home-main">
+  <section class="about-section" aria-labelledby="about-heading">
+    <div class="section-label" id="about-heading">About</div>
+    <div class="about-content">
+      <div class="about-copy">{{ $author.Content }}</div>
+
+      <div class="education-list" aria-label="Education">
+        {{ range $author.Params.education }}
+          <div class="degree">{{ .area }}</div>
+          <div class="institution">{{ .institution }}</div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  <section class="contact-section" id="contact" aria-labelledby="contact-heading">
+    <div class="section-label" id="contact-heading">Contact</div>
+    <div class="contact-content">
+      <p>Kate Tiedemann School of Business and Finance<br>University of South Florida</p>
+      <p>4202 East Fowler Avenue<br>Tampa, FL 33620</p>
+      <p><a href="mailto:dfang@usf.edu">dfang@usf.edu</a></p>
+    </div>
+  </section>
+</main>
+{{ end }}

@@ -1,0 +1,8 @@
+{{- $icon := .icon -}}
+{{- if eq $icon "hero/envelope" -}}Email
+{{- else if eq $icon "brands/linkedin" -}}LinkedIn
+{{- else if eq $icon "academicons/google-scholar" -}}Google Scholar
+{{- else if eq $icon "academicons/ssrn" -}}SSRN
+{{- else if eq $icon "brands/github" -}}GitHub
+{{- else -}}Profile
+{{- end -}}

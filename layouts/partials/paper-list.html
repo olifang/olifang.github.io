@@ -1,0 +1,18 @@
+<ol class="paper-list">
+  {{ range . }}
+    <li class="paper-item">
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      {{ with .Params.authors }}
+        <p class="paper-authors">{{ partial "author-list.html" . }}</p>
+      {{ end }}
+      {{ with .Params.publication }}
+        <p class="paper-venue">{{ . | markdownify }}</p>
+      {{ end }}
+      {{ with .Params.links }}
+        <div class="paper-links">
+          {{ range . }}<a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a>{{ end }}
+        </div>
+      {{ end }}
+    </li>
+  {{ end }}
+</ol>

@@ -1,0 +1,20 @@
+{{ define "main" }}
+<main class="page-shell paper-page">
+  <a class="back-link" href="{{ "/research/" | relURL }}">← Research</a>
+  <article>
+    <header class="paper-header">
+      <p class="page-kicker">{{ if eq .Section "publication" }}Research{{ else }}Work in Progress{{ end }}</p>
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.authors }}<p class="paper-authors">{{ partial "author-list.html" . }}</p>{{ end }}
+      {{ with .Params.publication }}<p class="paper-venue">{{ . | markdownify }}</p>{{ end }}
+      {{ with .Params.links }}
+        <div class="paper-links prominent">
+          {{ range . }}<a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a>{{ end }}
+        </div>
+      {{ end }}
+    </header>
+    {{ with .Params.abstract }}<section class="paper-body"><h2>Abstract</h2><p>{{ . }}</p></section>{{ end }}
+    {{ with .Content }}<section class="paper-body">{{ . }}</section>{{ end }}
+  </article>
+</main>
+{{ end }}
