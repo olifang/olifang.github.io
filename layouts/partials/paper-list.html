@@ -1,9 +1,10 @@
 <ol class="paper-list">
   {{ range . }}
+    {{ $paper := . }}
     <li class="paper-item">
       <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
       {{ with .Params.authors }}
-        <p class="paper-authors">{{ partial "author-list.html" . }}</p>
+        <p class="paper-authors">{{ partial "author-list.html" . }}{{ if $paper.Params.featured }} ({{ $paper.Date.Format "2006" }}){{ end }}</p>
       {{ end }}
       {{ with .Params.publication }}
         <p class="paper-venue">{{ . | markdownify }}</p>
